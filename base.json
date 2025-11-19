@@ -7,12 +7,12 @@
     "incremental": false,
     "isolatedModules": false,
     "lib": ["ES2024", "DOM", "DOM.Iterable"],
-    "module": "NodeNext",
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "bundler",
     "moduleDetection": "force",
-    "moduleResolution": "NodeNext",
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "target": "es2024"
   }
 }
