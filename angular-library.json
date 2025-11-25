@@ -9,6 +9,7 @@
     "noFallthroughCasesInSwitch": true,
     "experimentalDecorators": true,
     "importHelpers": true,
+    "moduleResolution": "node",
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
